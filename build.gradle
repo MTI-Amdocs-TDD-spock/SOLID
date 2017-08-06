@@ -18,4 +18,5 @@ dependencies {
     testCompile group: 'junit', name: 'junit', version:'4.8.1'
     testCompile group: 'org.jmock', name: 'jmock-junit4', version:'2.5.1'
     testCompile group: 'org.jmock', name: 'jmock-legacy', version:'2.5.1'
+    testCompile "org.mockito:mockito-core:2.8.+"
 }
